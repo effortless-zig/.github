@@ -1,5 +1,7 @@
 ## Effortless Zig
 
+**EXTREMELY WORK-IN-PROGRESS, DO NOT USE THESE LIBRARIES, THEY AREN'T ANYWHERE NEAR PRODUCTION READY YET**
+
 Effortless Zig is a one stop shop of zig libraries (All libraries in or linked must be made zig through and through, unless really required). It contains both its own set of custom libraries as well as 
 external libraries when a library is so good a redevelop will just end up being a carbon copy of the orginal.
 
