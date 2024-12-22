@@ -1,4 +1,8 @@
-## Effortless Zig
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/effortless-zig/branding/blob/main/effortless-zig-dark-mode.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/effortless-zig/branding/blob/main/effortless-zig-light-mode.png">
+  <img alt="Effortless Zig Logo." src="https://github.com/effortless-zig/branding/blob/main/effortless-zig-light-mode.png" style="object-fit: cover; display: block;">
+</picture>
 
 **EXTREMELY WORK-IN-PROGRESS, DO NOT USE THESE LIBRARIES, THEY AREN'T ANYWHERE NEAR PRODUCTION READY YET**
 
