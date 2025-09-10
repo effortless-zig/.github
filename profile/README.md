@@ -14,6 +14,7 @@ There are five (plus one) core tenants of Effortless Design and so, without furt
 - Document Precisely: All projects should be well commented (where needed), well documented with markdown files, and should define their own guidelines on top of these ones where needed.
 - Ensure Reliability via Testing: Anything complex, error-prone, and/or (most importantly) relied on, must be tested (this is most of the codebase). Those tests must then be maintained to the same standard as the projects itself.
 - Be Effortlessly Stylish: All projects should follow the style guide.
+
 *Bonus Tenant:*
 - Embrace the Chill: We are here to design great software, not start wars over some project. If things get heated, go touch some grass (you'll feel better).
 
