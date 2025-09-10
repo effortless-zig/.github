@@ -19,3 +19,7 @@ There are five (plus one) core tenants of Effortless Design and so, without furt
 - Embrace the Chill: We are here to design great software, not start wars over some project. If things get heated, go touch some grass (you'll feel better).
 
 And remember, we enforce rules not because they are fun but because effective, followed, and well-defined rules are the first line of defence against bad code.
+
+## Our Projects
+### Data Management and Storage
+- [Effortless Hoard](https://github.com/effortless-zig/effortless-hoard): Easy storage, management, and access for all you data hoarders out there.
