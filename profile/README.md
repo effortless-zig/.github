@@ -6,26 +6,15 @@
 
 **EXTREMELY WORK-IN-PROGRESS, DO NOT USE THESE LIBRARIES, THEY AREN'T ANYWHERE NEAR PRODUCTION READY YET**
 
-Effortless Zig is a one stop shop of zig libraries (All libraries in or linked must be made zig through and through, unless really required). It contains both its own set of custom libraries as well as 
-external libraries when a library is so good a redevelop will just end up being a carbon copy of the orginal.
+Effortless Zig is a one stop shop of mainly Zig libraries/tooling for a bunch of different topics. What unites them, well it's their dedication to good code and the tenants they are built on to achieve that.
 
-There are 3 promises of effortless design:
-- Build From Source: All libraries should maintain their own implementations rather than importing others (unless it is meant to be an abstraction ontop of something else or is std).
-- The easy way should be the right way: All libraries should make the easiest way of using it be the most performant and safe.
-- We documented: The library should be well commented (where needed) and well documented with markdown files.
-- Tested: Anything complex or error-prone must be tested and testing suites must be maintained to the same standard as the libraries itself.
-- Standardised: If there is a way of doing something that is effective and proven (and other options aren't significantly better), do that thing.
+There are five (plus one) core tenants of Effortless Design and so, without further ado, all our projects aim to:
+- Build from Source: All projects should maintain their own implementations or use code within the effortless eco-system rather than importing externally (the only exceptions are zig's standard library (std), and if the point of the project is to build ontop of an external one, looking at you Window's APIs).
+- Make the Easy Way be the Right Way: All projects should make the easiest way of using it, the most performant, and safe way of using it. (This is where the effortless part of the name comes from.)
+- Document Precisely: All projects should be well commented (where needed), well documented with markdown files, and should define their own guidelines on top of these ones where needed.
+- Ensure Reliability via Testing: Anything complex, error-prone, and/or (most importantly) relied on, must be tested (this is most of the codebase). Those tests must then be maintained to the same standard as the projects itself.
+- Be Effortlessly Stylish: All projects should follow the style guide.
+*Bonus Tenant:*
+- Embrace the Chill: We are here to design great software, not start wars over some project. If things get heated, go touch some grass (you'll feel better).
 
-### Front-End
-
-**Handling CSS:** [Effortless Parse]
-
-### Back-End
-
-### Data
-
-**String/Binary Parsing:** [Effortless Parser](github.com/effortless-zig/effortless-parser).
-
-### Low Level Support
-
-### Gaming
+And remember, we enforce rules not because they are fun but because effective, followed, and well-defined rules are the first line of defence against bad code.
